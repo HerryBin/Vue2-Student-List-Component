@@ -1,0 +1,55 @@
+define([], function () {
+
+   return[
+       {
+           id:'01',
+           name:'刘德华',
+           sex:'M',
+           age:'15',
+           gradeLevel:'八年级'
+       },
+       {
+           id:'01',
+           name:'黎明',
+           sex:'M',
+           age:'12',
+           gradeLevel:'五年级'
+       },
+       {
+           id:'01',
+           name:'张曼玉',
+           sex:'F',
+           age:'8',
+           gradeLevel:'六年级'
+       },
+       {
+           id:'01',
+           name:'谢霆锋',
+           sex:'M',
+           age:'10',
+           gradeLevel:'四年级'
+       },
+       {
+           id:'01',
+           name:'张白芷',
+           sex:'F',
+           age:'7',
+           gradeLevel:'二年级'
+       },
+       {
+           id:'01',
+           name:'陈旭东',
+           sex:'M',
+           age:'13',
+           gradeLevel:'一年级'
+       },
+       {
+           id:'01',
+           name:'郑成',
+           sex:'M',
+           age:'14',
+           gradeLevel:'七年级'
+       }
+   ];
+
+});
